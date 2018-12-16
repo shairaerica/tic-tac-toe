@@ -1,2 +1,4 @@
-# tic-tac-toe
-Tic-Tac-Toe-Game
+tic_tac_toe
+===========
+
+Tic Tac Toe in Golang
